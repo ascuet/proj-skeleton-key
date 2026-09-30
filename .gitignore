@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Data, checkpoints and experiment outputs
+/data/
+/dataset-data/
+/edm_data/
+/checkpoint/
+/trained_models/
+/generated_adversarial_examples/
+/ResultsForGaME/
+*.log
